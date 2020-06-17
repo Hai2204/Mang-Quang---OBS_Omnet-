@@ -1,0 +1,9 @@
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\bin\Debug\Client-Server ThayTu.exe.config
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\bin\Debug\Client-Server ThayTu.exe
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\bin\Debug\Client-Server ThayTu.pdb
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client-Server ThayTu.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client_Server_ThayTu.Form1.resources
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client_Server_ThayTu.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client-Server ThayTu.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client-Server ThayTu.exe
+C:\Users\ADMIN\source\repos\Client-Server ThayTu\Client-Server ThayTu\obj\Debug\Client-Server ThayTu.pdb
